@@ -17,3 +17,8 @@ c1 = 'S'
 c2 = 's'
 print(c1 in s)
 print(c2 not in s)
+
+#Test định dạng chuỗi
+name = "Nam"
+age = 20
+print("%s is %d years old" %(name, age))
